@@ -72,6 +72,8 @@ struct Node{
     int data; 
     struct Node *next;
 }*head;
+
+
 void insert(int data)
 {
     struct Node* n=(struct Node*)malloc(sizeof(struct Node));
@@ -89,7 +91,8 @@ void insert(int data)
         
     }
 }
-'''
+
+```
 
 ### Output:
 
@@ -115,7 +118,6 @@ To write a C program to traverse a doubly linked list.
 ### Program:
 
 ```c
-
 struct Node
 {
     struct Node *prev;
@@ -137,6 +139,7 @@ void display()
 ```
 
 ### Output:
+
 <img width="696" height="878" alt="image" src="https://github.com/user-attachments/assets/ea1952f0-9d7f-415b-a7bb-cd48d360f5ab" />
 
 
@@ -202,6 +205,8 @@ Thus, the program to insert an element in doubly linked list is verified success
 ## EXP NO:20 C FUNCTION TO DELETE A GIVEN ELEMENT IN THE GIVEN LINKED LIST
 
 
+
+
 ### Aim:
 To write a C function that deletes a given element from a linked list.
 
@@ -222,6 +227,8 @@ o	Free the memory allocated to the node to be deleted.
 5.	Handle the Case when the Element is Not Found:
 o	If the element is not found in any node, print a message indicating the element is not present in the list.
 6.	End the Function.
+
+
 ### Program:
 
 ```c

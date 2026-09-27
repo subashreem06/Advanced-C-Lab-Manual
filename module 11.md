@@ -80,6 +80,15 @@ int main(){
 
 ```
 ## Output:
+<img width="299" height="308" alt="image" src="https://github.com/user-attachments/assets/567b6076-de13-4d58-9576-f6e685c7859a" />
+
+## Result:
+Thus, the program to print the maximum values for the AND, OR and XOR comparisons
+is verified successfully.
+
+
+ 
+## EXP NO:23 C PROGRAM TO WRITE THE LOGIC FOR THE REQUESTS
 ## Aim:
 To write a C program to write the logic for the requests
 
@@ -153,6 +162,7 @@ To write a C program print the sum of the integers in the array.
 7.	Print the final sum using printf.
 
 
+
 ## Program:
 ```c
 #include<stdio.h>
@@ -179,6 +189,8 @@ int main()
 ## Result:
 Thus, the program prints the sum of the integers in the array is verified successfully.
 
+
+ 
 ## EXP NO 25: C PROGRAM TO COUNT THE NUMBER OF WORDS IN A SENTENCE
 ## Aim:
 

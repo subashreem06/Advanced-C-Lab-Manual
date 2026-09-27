@@ -163,6 +163,17 @@ To write a C program print the sum of the integers in the array.
 
 
 
+## Program:
+```c
+#include<stdio.h>
+int main()
+{
+    int n,sum=0;
+    scanf("%d",&n);
+    int a[n];
+    for(int i=1;i<=n;i++)
+    {
+        scanf("%d",&a[i]);
     }
     for(int i=1;i<=n;i++)
     {
